@@ -1,0 +1,4 @@
+1.5.1
+https://github.com/dmixtronde/DMix-Tron-de/releases
+https://www.dmix.io.vn/
+Cập nhật mới:<br> - Tối ưu, tăng tốc cài đặt phần mềm. <br> - Bổ sung tính năng trộn đề từ nhiều file giống cấu trúc với nhau. <br>
